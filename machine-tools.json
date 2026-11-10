@@ -1,0 +1,105 @@
+[
+  {
+    "machineId": "cnc-1",
+    "cncIp": "10.32.34.21",
+    "rtsp": "rtsp://AdminAmb:12345678@172.22.17.83:554/stream1",
+    "personZone": [
+      [
+        0.1669,
+        0.9465
+      ],
+      [
+        0.1652,
+        0.8642
+      ],
+      [
+        0.2548,
+        0.2716
+      ],
+      [
+        0.4295,
+        0.2593
+      ],
+      [
+        0.4584,
+        0.1800
+      ],
+      [
+        0.5642,
+        0.1800
+      ],
+      [
+        0.5683,
+        0.2675
+      ],
+      [
+        0.5949,
+        0.5761
+      ],
+      [
+        0.5492,
+        0.9763
+      ]
+    ]
+  },
+  {
+    "machineId": "cnc-2",
+    "cncIp": "192.168.39.7",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-3",
+    "cncIp":"192.168.39.8",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-4",
+    "cncIp":"192.168.39.9",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-5",
+    "cncIp":"192.168.39.12",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-6",
+    "cncIp":"192.168.39.195",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-8",
+    "cncIp":"192.168.39.19",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-9",
+    "cncIp":"192.168.39.18",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-10",
+    "cncIp":"192.168.39.26",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-11",
+    "cncIp":"192.168.39.27",
+    "rtsp": "",
+    "personZone": []
+  },
+  {
+    "machineId": "cnc-12",
+    "cncIp":"192.168.39.28",
+    "rtsp": "",
+    "personZone": []
+  }
+]

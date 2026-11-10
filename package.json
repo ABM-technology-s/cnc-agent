@@ -1,0 +1,11 @@
+{
+  "name": "fanuc-monitor",
+  "version": "1.0.0",
+  "description": "FANUC + camera operator monitor",
+  "main": "combined.js",
+  "scripts": {
+    "start": "node combined.js",
+    "debug": "SAVE_DEBUG=1 node combined.js"
+  },
+  "type": "commonjs"
+}
